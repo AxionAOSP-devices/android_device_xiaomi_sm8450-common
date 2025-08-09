@@ -546,6 +546,96 @@
       "Value": "614400"
     },
     {
+      "PowerHint": "LOW_POWER_LITTLE_CLUSTER_50",
+      "Node": "CPULittleClusterMaxFreq",
+      "Duration": 3600000,
+      "Value": "902400"
+    },
+    {
+      "PowerHint": "LOW_POWER_LITTLE_CLUSTER_60",
+      "Node": "CPULittleClusterMaxFreq",
+      "Duration": 3600000,
+      "Value": "1082880"
+    },
+    {
+      "PowerHint": "LOW_POWER_LITTLE_CLUSTER_70",
+      "Node": "CPULittleClusterMaxFreq",
+      "Duration": 3600000,
+      "Value": "1263360"
+    },
+    {
+      "PowerHint": "LOW_POWER_LITTLE_CLUSTER_80",
+      "Node": "CPULittleClusterMaxFreq",
+      "Duration": 3600000,
+      "Value": "1443840"
+    },
+    {
+      "PowerHint": "LOW_POWER_LITTLE_CLUSTER_90",
+      "Node": "CPULittleClusterMaxFreq",
+      "Duration": 3600000,
+      "Value": "1624320"
+    },
+    {
+      "PowerHint": "LOW_POWER_MID_CLUSTER_50",
+      "Node": "CPUMidClusterMaxFreq",
+      "Duration": 3600000,
+      "Value": "1248000"
+    },
+    {
+      "PowerHint": "LOW_POWER_MID_CLUSTER_60",
+      "Node": "CPUMidClusterMaxFreq",
+      "Duration": 3600000,
+      "Value": "1497600"
+    },
+    {
+      "PowerHint": "LOW_POWER_MID_CLUSTER_70",
+      "Node": "CPUMidClusterMaxFreq",
+      "Duration": 3600000,
+      "Value": "1747200"
+    },
+    {
+      "PowerHint": "LOW_POWER_MID_CLUSTER_80",
+      "Node": "CPUMidClusterMaxFreq",
+      "Duration": 3600000,
+      "Value": "1996800"
+    },
+    {
+      "PowerHint": "LOW_POWER_MID_CLUSTER_90",
+      "Node": "CPUMidClusterMaxFreq",
+      "Duration": 3600000,
+      "Value": "2246400"
+    },
+    {
+      "PowerHint": "LOW_POWER_CPU_50",
+      "Node": "CPUBigClusterMaxFreq",
+      "Duration": 3600000,
+      "Value": "1459200"
+    },
+    {
+      "PowerHint": "LOW_POWER_CPU_60",
+      "Node": "CPUBigClusterMaxFreq",
+      "Duration": 3600000,
+      "Value": "1750080"
+    },
+    {
+      "PowerHint": "LOW_POWER_CPU_70",
+      "Node": "CPUBigClusterMaxFreq",
+      "Duration": 3600000,
+      "Value": "2042880"
+    },
+    {
+      "PowerHint": "LOW_POWER_CPU_80",
+      "Node": "CPUBigClusterMaxFreq",
+      "Duration": 3600000,
+      "Value": "2334720"
+    },
+    {
+      "PowerHint": "LOW_POWER_CPU_90",
+      "Node": "CPUBigClusterMaxFreq",
+      "Duration": 3600000,
+      "Value": "2626560"
+    },
+    {
       "PowerHint": "LAUNCH",
       "Node": "CPUBigPlusClusterMinFreq",
       "Duration": 2000,
